@@ -70,7 +70,6 @@ string = """043080250
             820500000
             000000005
             034090710"""
-print_grid(make_grid(string))
 
 grid = make_grid(string)
 print_grid(grid)
